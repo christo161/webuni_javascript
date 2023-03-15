@@ -1,0 +1,15 @@
+.lesson {
+    margin: 5px 0;
+}
+
+#total_time, #time_spent {
+    margin: 5px 0;
+}
+
+button {
+    border-radius: 5px;
+    background-color: lightskyblue;
+    border-color: transparent;
+    color: white;
+    padding: 5px;
+}

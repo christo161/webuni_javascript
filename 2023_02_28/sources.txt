@@ -1,0 +1,3 @@
+https://github.com/Webuni-JavaScript-courses/modern-js-course-tracker
+https://github.com/Webuni-JavaScript-courses/modern-js-homework-todo-list
+https://github.com/Webuni-JavaScript-courses/modern-js-practice-advanced-todo

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Modern JavaScript és webfejlesztés alapok ismétlése",
+        "duration": 75,
+        "isCompleted": true
+    },
+    {
+        "name": "Modern JavaScript gyakorlás",
+        "duration": 90,
+        "isCompleted": false
+    },
+    {
+        "name": "HTTP és aszinkronitás",
+        "duration": 88,
+        "isCompleted": false
+    },
+    {
+        "name": "HTTP és aszinkronitás gyakorlás",
+        "duration": 93,
+        "isCompleted": false
+    },
+    {
+        "name": "Haladó CSS (FlexBox és Grid)",
+        "duration": 80,
+        "isCompleted": false
+    },
+    {
+        "name": "WebComponents",
+        "duration": 76,
+        "isCompleted": false
+    },
+    {
+        "name": "Időjárás alkalmazás 1.",
+        "duration": 70,
+        "isCompleted": false
+    },
+    {
+        "name": "Időjárás alkalmazás 2.",
+        "duration": 84,
+        "isCompleted": false
+    }
+]
